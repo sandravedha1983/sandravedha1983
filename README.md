@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Vedhavathi
+Hi there 👋 I'm Vedhavathi
 
 🎓 B.Tech Student passionate about 📊 Data Analytics and 💻 Technology.
 I enjoy learning new skills, building creative projects, and exploring how data can solve real-world problems 🚀
@@ -12,7 +12,7 @@ I enjoy learning new skills, building creative projects, and exploring how data 
 * 😄 Pronouns: She/Her
 * ⚡ Fun fact: I enjoy analyzing small details in projects and turning simple ideas into meaningful solutions ✨
 
-### 🌟 Interests
+🌟 Interests
 
 📊 Data Analytics
 💻 Web Development
@@ -21,5 +21,14 @@ I enjoy learning new skills, building creative projects, and exploring how data 
 🔍 Exploring New Tools & Technologies
 
 Always curious to learn, improve, and build something meaningful 💡
+## 📊 GitHub Stats
 
--->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sandravedha1983&show_icons=true&theme=tokyonight)
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=sandravedha1983&theme=tokyonight)
+
+## 💻 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sandravedha1983&layout=compact&theme=tokyonight)
