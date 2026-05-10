@@ -20,10 +20,10 @@ I enjoy learning new skills, building creative projects, and exploring how data 
 🎧 Music & Dramas
 🔍 Exploring New Tools & Technologies
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sandravedha1983&show_icons=true&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=sandravedha1983&show_icons=true&theme=tokyonight" />
 
 ## 💻 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandravedha1983&layout=compact&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandravedha1983&layout=compact&theme=tokyonight" />
 
 ## 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=sandravedha1983&theme=radical)
+<img src="https://streak-stats.demolab.com?user=sandravedha1983&theme=tokyonight" />
