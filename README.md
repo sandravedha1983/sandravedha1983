@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there 👋 I'm Vedhavathi
 
-<!--
-**sandravedha1983/sandravedha1983** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Student passionate about 📊 Data Analytics and 💻 Technology.
+I enjoy learning new skills, building creative projects, and exploring how data can solve real-world problems 🚀
 
-Here are some ideas to get you started:
+* 🔭 I’m currently working on improving my technical and analytical skills
+* 🌱 I’m currently learning 🐍 Python, 🗄️ SQL, 📈 Data Visualization, and 🌐 Backend Development
+* 👯 I’m looking to collaborate on beginner-friendly tech and data-driven projects
+* 🤔 I’m looking for help with improving my practical knowledge in Data Analytics and development
+* 💬 Ask me about technology, student projects, learning resources, and productivity
+* 📫 How to reach me: sandravedha1983@gmail.com
+* 😄 Pronouns: She/Her
+* ⚡ Fun fact: I enjoy analyzing small details in projects and turning simple ideas into meaningful solutions ✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 🌟 Interests
+
+📊 Data Analytics
+💻 Web Development
+🚀 Tech Innovation
+🎧 Music & Dramas
+🔍 Exploring New Tools & Technologies
+
+Always curious to learn, improve, and build something meaningful 💡
+
 -->
